@@ -1,4 +1,4 @@
-## Resolvers
+# Resolvers
 
 ## How to use this repo
 
